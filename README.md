@@ -45,3 +45,5 @@ Usage
    your repo's GitHub Pages URL: `https://YOUR_USER.github.io.` for a user or
    organization site, or `https://YOUR_USER.github.io/YOUR_REPO` for a project
    site.
+
+For an example see [this repo's own `pages.yml` workflow](.github/workflows/pages.yml) which deploys [this repo's `site/` directory](site/) to <https://www.seanh.cc/ghp-static/>.
